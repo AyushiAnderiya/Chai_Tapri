@@ -1,3 +1,3 @@
 This project is a web portal for Chai Tapri ,designed and developed using HTML and CSS. Inspired by the cozy ambiance and vibrant culture of traditional chai stalls, this website brings the essence of chai culture to the digital realm. From the rich aroma of brewing chai to the comforting simplicity of clay cups, every detail of the chai experience is captured in the design. Whether you're craving a steaming cup of masala chai or exploring the menu for delicious snacks, Chai Tapri offers a virtual retreat where you can immerse yourself in the charm of India's beloved tea culture
 
-Deployment Link:-https://ayushianderiya.github.io/Chai_Tapri/chai
+Deployment Link:-https://ayushianderiya.github.io/Chai_Tapri
