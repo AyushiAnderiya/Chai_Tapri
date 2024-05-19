@@ -1,0 +1,54 @@
+#h1 {
+
+    font-size: 90px;
+    color: brown;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+#h2 {
+    color: lightsteelblue;
+    margin-left: 6vw;
+}
+#h{
+    color: thistle;
+    margin-top: 2px;
+}
+#da {
+    background: url(tea.webp);
+    background-repeat: no-repeat;
+    background-size: 1550px 850px;
+
+}
+
+#list {
+
+    font-size: 20px;
+    font-style: italic;
+    font-style: bold;
+    color: whitesmoke;
+
+}
+
+table td{
+    padding-left: 3vw;
+}
+
+#p1 {
+    font-size: 20px;
+    font-style: italic;
+    font-style: bold;
+    color: rgb(240, 179, 110);
+
+}
+
+#f1 {
+    display: inline;
+    border: 6px solid tomato;
+}
+
+#li {
+    color: maroon;
+    font-size: 29px;
+
+}
